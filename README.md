@@ -2,7 +2,8 @@ Meditation App Refactor - Using BDD
 
 - [x] App Component Should Render Correctly
 - [x] Timer Component Should Render Correctly
-- [ ] Data Component Should Render Correctly
+- [x] Data Component Should Render Correctly
+- [ ] Timer should opperate correctly (see issue)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
