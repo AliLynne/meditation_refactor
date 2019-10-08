@@ -1,7 +1,7 @@
 Meditation App Refactor - Using BDD
 
-- [ ] App Component Should Render Correctly
-- [ ] Timer Component Should Render Correctly
+- [x] App Component Should Render Correctly
+- [x] Timer Component Should Render Correctly
 - [ ] Data Component Should Render Correctly
 
 
